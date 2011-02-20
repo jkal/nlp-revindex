@@ -1,0 +1,7 @@
+Simple scripts to generate a reverse index from a collection of text files,
+based on tf-idf weights.
+
+We also use a shingling technique to calculate text containment between the
+files of the collection.
+
+The tree-tagger English parameter file is available from [here](http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/DecisionTreeTagger.html).
